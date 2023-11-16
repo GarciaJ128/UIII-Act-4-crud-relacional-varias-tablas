@@ -23,6 +23,21 @@ CRUD relacionando las tablas tbl_libro, tbl_compra y tbl_libros_vendidos del lin
 ![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/93141461-0b97-4858-9fb8-4f965669b7e0)
 ![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/049867db-a3d8-420e-afdf-d0e9cde742f2)
 ![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/95f10e3f-13dd-4bf8-a688-acd4b532e99b)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/8d1d9cd5-1a78-4c9f-8e18-c6c316016764)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/b41bc0f4-1d7b-4bfc-b2cd-5002eff720d5)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/ab400544-251a-4f69-803a-0061815edc6e)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/81149cb5-e692-45c9-83f4-af4e27ac2615)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/b6dedff2-cf6c-4ab6-83a4-d7514442d2b0)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/7cae8272-d9d8-4926-8776-0d76ea451c63)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/de2b7178-006f-451e-aee4-541c5af8092e)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/74a5a23c-288e-48e8-b18c-a4bfe7739db7)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/7ec390b0-34ec-4fad-9664-52f40abe1de7)
+![image](https://github.com/GarciaJ128/UIII-Act-4-crud-relacional-varias-tablas/assets/143743623/3575d588-cb92-4ea9-946a-177e5b8104a1)
+
+
+
+
+
 
 
 
